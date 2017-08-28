@@ -1,0 +1,14 @@
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\FizzBuzz.Data.dll.config
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\FizzBuzz.Data.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\FizzBuzz.Data.pdb
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\EntityFramework.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\EntityFramework.xml
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\obj\Debug\FizzBuzz.Data.csprojResolveAssemblyReference.cache
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\obj\Debug\FizzBuzz.Data.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\FizzBuzz.Data\obj\Debug\FizzBuzz.Data.pdb

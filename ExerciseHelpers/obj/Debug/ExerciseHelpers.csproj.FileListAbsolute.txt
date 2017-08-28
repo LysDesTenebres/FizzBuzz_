@@ -1,0 +1,7 @@
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\ExerciseHelpers.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\ExerciseHelpers.pdb
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\nunit.framework.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\bin\Debug\nunit.framework.xml
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.csprojResolveAssemblyReference.cache
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.dll
+C:\Workspace\PXL-IT-NET\Programming-Advanced\Examen\FizzBuzzTDD\FizzBuzzTDD  - Skelet\FizzBuzzNaamVoornaam\ExerciseHelpers\obj\Debug\ExerciseHelpers.pdb
